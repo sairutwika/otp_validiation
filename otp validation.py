@@ -11,7 +11,7 @@ smtp_server = "smtp.gmail.com"
 smtp_port = 587
 
 username = "sairutwika1408@gmail.com"
-password = "lkte omxr usrc jmcn"
+password = "xxxx xxxx xxxx xxxx"
 
 from_email = "sairutwika1408@gmail.com"
 to_email = input("Enter email to send OTP: ")
